@@ -49,7 +49,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Paste something</h1>
-        <p>Hit paste, and we'll handle the rest</p>
+        <p>Go ahead and hit paste, and we'll handle the rest</p>
         <!--
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         -->
