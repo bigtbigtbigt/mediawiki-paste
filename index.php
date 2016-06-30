@@ -86,8 +86,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Landa Enterprises 2016</p>
-        <p><a href="/debug/error-log/">Error log</a></p>
+        <p>Created by <a href="http://www.linkedin.com/in/tonylanda/">Tony Landa</a> 2016</p>
       </footer>
     </div> <!-- /container -->
 
