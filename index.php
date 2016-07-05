@@ -86,7 +86,7 @@
       <hr>
 
       <footer>
-        <p>Created by <a href="http://www.linkedin.com/in/tonylanda/">Tony Landa</a> 2016</p>
+        <p>Created by <a href="http://www.linkedin.com/in/tonylanda/">Tony Landa</a> &copy;2016</p>
       </footer>
     </div> <!-- /container -->
 
